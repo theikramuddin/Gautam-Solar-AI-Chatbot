@@ -1,6 +1,6 @@
 # ☀️ Gautam Solar AI Chatbot — RAG Project
 
-> **Surya** — An intelligent solar energy assistant powered by **LangChain + ChromaDB + Mistral AI**
+> **Surya** - An intelligent solar energy assistant powered by **LangChain + ChromaDB + Mistral AI**
 
 ---
 
