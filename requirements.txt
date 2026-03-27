@@ -54,9 +54,10 @@ pydantic
 python-dotenv          # Load .env API keys
 
 # ─── STREAMLIT UI ───────────────────────────────────────────
-streamlit
 streamlit-chat         # Chat UI component
 watchdog               # Streamlit file watcher
+streamlit>=1.52.0
+altair>=5.0.0
 
 # ─── EVALUATION & TESTING ───────────────────────────────────
 ragas                 # RAG evaluation framework
