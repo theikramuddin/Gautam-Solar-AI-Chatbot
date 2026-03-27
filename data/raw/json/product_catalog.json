@@ -1,0 +1,171 @@
+{
+  "company": "Gautam Solar",
+  "last_updated": "2024-12",
+  "products": [
+    {
+      "id": "GS-TOPCON-G12R-640",
+      "name": "G12 R TOPCon Series",
+      "type": "N-Type TOPCon",
+      "power_range_wp": "620-640",
+      "efficiency_pct": "22.95-23.69",
+      "cell_type": "N-Type TOPCon",
+      "cell_size_mm": "182x210 (Rectangular Full Cell)",
+      "configuration": "Bifacial Glass-to-Glass",
+      "bifacial_gain_pct": "Up to 30",
+      "voc_v": 38.6,
+      "isc_a": 18.2,
+      "vmp_v": 32.4,
+      "imp_a": 17.6,
+      "temp_coefficient_pmax": "-0.29%/°C",
+      "operating_temp_c": "-40 to +85",
+      "dimensions_mm": "2278x1134x30",
+      "weight_kg": 32.5,
+      "frame": "Anodized Aluminium",
+      "connector": "MC4 Compatible",
+      "warranty_product_yrs": 12,
+      "warranty_performance_yrs": 30,
+      "certifications": [
+        "BIS",
+        "IEC 61215",
+        "IEC 61730",
+        "UL 61730",
+        "TUV",
+        "CE",
+        "SGS"
+      ],
+      "almm_approved": true,
+      "pid_free": true,
+      "uv_resistant": true,
+      "best_for": [
+        "Utility scale",
+        "Large commercial",
+        "Space-constrained rooftops"
+      ],
+      "price_range_inr_per_wp": "24-28"
+    },
+    {
+      "id": "GS-TOPCON-600-GG",
+      "name": "N-Type TOPCon 600Wp Glass-Glass",
+      "type": "N-Type TOPCon",
+      "power_range_wp": "590-600",
+      "efficiency_pct": "Up to 22.84",
+      "cell_type": "N-Type TOPCon",
+      "configuration": "Bifacial Glass-to-Glass",
+      "bifacial_gain_pct": "Up to 25",
+      "voc_v": 37.8,
+      "isc_a": 17.5,
+      "vmp_v": 31.9,
+      "imp_a": 16.8,
+      "temp_coefficient_pmax": "-0.30%/°C",
+      "operating_temp_c": "-40 to +85",
+      "dimensions_mm": "2172x1303x30",
+      "weight_kg": 28.0,
+      "frame": "Anodized Aluminium",
+      "warranty_product_yrs": 12,
+      "warranty_performance_yrs": 30,
+      "certifications": [
+        "BIS",
+        "IEC 61215",
+        "IEC 61730",
+        "UL 61730",
+        "TUV",
+        "CE"
+      ],
+      "almm_approved": true,
+      "pid_free": true,
+      "best_for": [
+        "Commercial rooftop",
+        "Industrial",
+        "Ground-mounted"
+      ],
+      "price_range_inr_per_wp": "23-27"
+    },
+    {
+      "id": "GS-PERC-550-GB",
+      "name": "Mono PERC 550Wp Bifacial Glass-Backsheet",
+      "type": "Mono PERC",
+      "power_range_wp": "540-550",
+      "efficiency_pct": "20.9-21.3",
+      "cell_type": "Mono PERC M10 Half-Cut",
+      "cell_design": "MBB (Multi-BusBar) with Round Ribbon Connectors",
+      "manufacturing": "NDC (Non-Destructive Cutting)",
+      "configuration": "Bifacial Glass-to-Backsheet",
+      "bifacial_gain_pct": "Up to 20",
+      "temp_coefficient_pmax": "-0.35%/°C",
+      "operating_temp_c": "-40 to +85",
+      "dimensions_mm": "2278x1134x30",
+      "weight_kg": 27.5,
+      "frame": "Anodized Aluminium",
+      "warranty_product_yrs": 12,
+      "warranty_performance_yrs": 25,
+      "certifications": [
+        "BIS",
+        "IEC 61215",
+        "IEC 61730",
+        "TUV",
+        "CE"
+      ],
+      "almm_approved": true,
+      "best_for": [
+        "Residential rooftop",
+        "Small commercial",
+        "PM-KUSUM projects"
+      ],
+      "price_range_inr_per_wp": "18-22"
+    },
+    {
+      "id": "GS-PERC-550-MF",
+      "name": "Mono PERC 550Wp MonoFacial",
+      "type": "Mono PERC",
+      "power_range_wp": "540-550",
+      "efficiency_pct": "20.5-21.0",
+      "cell_type": "Mono PERC M10 Half-Cut",
+      "configuration": "MonoFacial",
+      "bifacial_gain_pct": "N/A",
+      "temp_coefficient_pmax": "-0.35%/°C",
+      "operating_temp_c": "-40 to +85",
+      "dimensions_mm": "2278x1134x35",
+      "weight_kg": 25.5,
+      "frame": "Anodized Aluminium",
+      "warranty_product_yrs": 12,
+      "warranty_performance_yrs": 25,
+      "certifications": [
+        "BIS",
+        "IEC 61215",
+        "IEC 61730",
+        "TUV"
+      ],
+      "almm_approved": true,
+      "best_for": [
+        "Budget residential",
+        "Agricultural pumping",
+        "Tier-2/3 city rooftops"
+      ],
+      "price_range_inr_per_wp": "16-20"
+    }
+  ],
+  "manufacturing": {
+    "facilities": [
+      {
+        "name": "Haridwar Factory",
+        "location": "Plot-67 & 68, Sec-8A, SIDCUL, Haridwar, Uttarakhand",
+        "capacity_gw": 1.5,
+        "status": "Operational"
+      },
+      {
+        "name": "Bhiwani Factory",
+        "location": "7 KM Milestone, Tosham Road, Bhiwani, Haryana",
+        "capacity_gw": 1.7,
+        "status": "Operational"
+      },
+      {
+        "name": "Malanpur Cell Plant",
+        "location": "Malanpur, Gwalior, Madhya Pradesh",
+        "capacity_gw": 5.0,
+        "status": "Upcoming",
+        "investment_crore": 4000
+      }
+    ],
+    "total_current_capacity_gw": 3.2
+  }
+}

@@ -1,0 +1,45 @@
+BLOG: TOPCon vs Mono PERC — Which Solar Panel Should You Choose in 2024?
+Published by: Gautam Solar | Category: Technology
+
+The solar industry in India is rapidly evolving. Two technologies dominate the market in 2024: the established Mono PERC and the next-generation N-Type TOPCon. This guide helps you make an informed choice.
+
+WHAT IS MONO PERC?
+Mono PERC (Passivated Emitter and Rear Cell) became the industry standard between 2018–2023. By adding a passivation layer to the rear of the cell, PERC technology boosted efficiencies from ~18% to over 21%. Gautam Solar's Mono PERC M10 Half-Cut cells with MBB design push efficiency to 21.3% — excellent value for money.
+
+Pros of Mono PERC:
+- Lower cost per watt (Rs 16–22/Wp)
+- Proven reliability over 10+ years
+- Wide availability of compatible inverters
+- Sufficient for most residential and commercial needs
+
+Cons of Mono PERC:
+- Higher temperature coefficient (-0.35%/°C) — loses more power in summer
+- Lower efficiency means more roof space needed
+- LeTID (Light and Elevated Temperature Induced Degradation) risk in some conditions
+
+WHAT IS N-TYPE TOPCON?
+TOPCon (Tunnel Oxide Passivated Contact) is the new generation. Gautam Solar's G12 R TOPCon achieves 23.69% efficiency — a significant jump. The N-Type substrate eliminates LeTID risk and the tunnel oxide layer dramatically reduces surface recombination losses.
+
+Pros of TOPCon:
+- Higher efficiency (22.84–23.69%)
+- Lower temperature coefficient (-0.29%/°C) — holds power better in heat
+- 30-year performance warranty vs 25 years for PERC
+- Better low-light performance (mornings, evenings, cloudy days)
+- Eliminates LeTID — more stable long-term performance
+- Higher bifacial gain (up to 30% vs 20% for PERC)
+
+Cons of TOPCon:
+- Higher cost per watt (Rs 23–28/Wp)
+- Slightly heavier per module
+
+THE VERDICT FOR DIFFERENT USE CASES:
+
+Residential Rooftop (3–10 kWp): If roof space is limited or you want maximum output, choose TOPCon. If budget is tight and roof space is ample, PERC remains excellent.
+
+Commercial Rooftop (10–100 kWp): TOPCon is increasingly preferred due to lower BOS (Balance of System) cost — you need fewer panels, less wiring, fewer mounting structures.
+
+Utility Scale (above 500 kWp): Almost universally shifting to TOPCon. The 1.56% LCOE reduction over 25 years translates to crores in savings at MW-scale.
+
+PM-KUSUM Projects: Both technologies are eligible. TOPCon is recommended for Component A (power sale to DISCOM) where maximum energy yield directly impacts revenue.
+
+For more information, contact Gautam Solar at info@gautamsolar.com or 1800-532-0800.

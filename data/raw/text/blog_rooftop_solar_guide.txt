@@ -1,0 +1,49 @@
+BLOG: Complete Guide to Rooftop Solar in India 2024
+Published by: Gautam Solar | Category: How-To
+
+With electricity tariffs rising and solar costs falling, rooftop solar has become the single best investment for Indian homeowners and businesses. Here's everything you need to know.
+
+STEP 1: CHECK YOUR ELIGIBILITY
+- Own or occupy the building where installation will happen
+- Have a sanctioned electricity connection
+- Roof must have structural integrity (consult a civil engineer for old buildings)
+- Minimum usable roof area: ~10 sq.mt per kWp of solar
+
+STEP 2: ASSESS YOUR ELECTRICITY CONSUMPTION
+Look at your electricity bill — specifically the number of units (kWh) consumed per month. A typical Indian household consuming 300 units/month needs approximately a 3 kWp system. A commercial establishment consuming 2000 units/month needs approximately a 20 kWp system.
+
+Rule of thumb: System size (kWp) = Monthly units / 120
+
+STEP 3: UNDERSTAND AVAILABLE SUBSIDIES
+PM Surya Ghar Muft Bijli Yojana (2024) — Residential only:
+- 1 kWp: Rs 30,000 subsidy
+- 2 kWp: Rs 60,000 subsidy
+- 3 kWp: Rs 78,000 subsidy (maximum for residential)
+- Above 3 kWp: No additional central subsidy, but state subsidies may apply
+
+The subsidy is available only for grid-connected systems installed by empanelled vendors with ALMM-approved modules like Gautam Solar.
+
+STEP 4: SELECT YOUR SYSTEM
+Net Metering System: Excess solar power fed back to grid, you receive credit on your electricity bill. Most common for residential and commercial.
+Off-Grid System: Includes batteries, works without grid. More expensive, suited for unreliable grid areas.
+Hybrid System: Grid-connected with battery backup. Best of both worlds.
+
+STEP 5: CHOOSE YOUR INSTALLER
+Verify the installer is MNRE empanelled. Ask for references from past installations. Gautam Solar has a network of 500+ verified installers across India. Call 1800-532-0800 to get connected to an installer in your city.
+
+STEP 6: DOCUMENTATION FOR NET METERING
+- Application to your DISCOM/utility
+- Electrical drawing of the proposed system
+- NOC from the building owner (if tenant)
+- Proof of identity and address
+- Passport photos
+
+Processing time: 15–45 days depending on your DISCOM.
+
+WHAT TO EXPECT AFTER INSTALLATION:
+- Your electricity bill drops by 70–100% depending on solar generation and consumption patterns
+- Excess units are credited to your account (net metering)
+- Annual generation report available via inverter monitoring app
+- Minimal maintenance — mainly periodic cleaning
+
+Contact Gautam Solar: 1800-532-0800 | info@gautamsolar.com

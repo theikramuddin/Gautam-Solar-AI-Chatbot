@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Products",
+    "question": "What is the difference between TOPCon and Mono PERC solar panels?",
+    "answer": "TOPCon (Tunnel Oxide Passivated Contact) is a newer, more advanced technology compared to Mono PERC. TOPCon panels offer higher efficiency (up to 23.69% vs 21.3% for PERC), better performance in low-light conditions, lower temperature coefficient (-0.29%/°C vs -0.35%/°C), and longer 30-year performance warranties. They also have a lower degradation rate (0.4%/year). Mono PERC panels are more cost-effective and still excellent for most applications. For large-scale or space-constrained installations, TOPCon is recommended."
+  },
+  {
+    "category": "Products",
+    "question": "What is bifacial technology and how does it benefit me?",
+    "answer": "Bifacial solar panels can generate power from both the front and rear surfaces. The rear side captures reflected light (albedo) from the ground or roof surface. Gautam Solar's bifacial TOPCon panels offer up to 30% bifacial gain, meaning a 640 Wp panel can effectively produce power equivalent to up to 832 Wp in optimal conditions. Bifacial panels work best when installed with a light-colored reflective surface underneath and elevated mounting to allow light to reach the rear."
+  },
+  {
+    "category": "Products",
+    "question": "Which Gautam Solar panel is best for my rooftop home installation?",
+    "answer": "For residential rooftops, we recommend the Mono PERC 550Wp (MonoFacial) for budget-conscious installations and the N-Type TOPCon 600Wp for maximum efficiency per square foot. For a typical 3–5 kWp residential system, you would need 6–9 panels of the 550Wp PERC series or 5–8 panels of the 600Wp TOPCon series. Our team provides a free site assessment to recommend the exact model based on your roof area, orientation, and electricity consumption."
+  },
+  {
+    "category": "Products",
+    "question": "What is the warranty on Gautam Solar panels?",
+    "answer": "Gautam Solar offers a 12-year product warranty covering manufacturing defects and a 30-year linear performance warranty on TOPCon modules (25 years on Mono PERC). The performance warranty guarantees minimum 98% output in Year 1, degrading by no more than 0.4% per year, ensuring at least 86.4% output in Year 30 for TOPCon modules. Claims can be raised via email at warranty@gautamsolar.com or through your installer."
+  },
+  {
+    "category": "Products",
+    "question": "Are Gautam Solar panels ALMM approved?",
+    "answer": "Yes, Gautam Solar modules are listed on the MNRE ALMM (Approved List of Models and Manufacturers). This is mandatory for all solar projects that avail government subsidies, including PM-KUSUM, rooftop solar subsidies under SECI, and state government schemes. Our ALMM listing number can be verified at the MNRE official portal. This ensures your project qualifies for all applicable subsidies and incentives."
+  },
+  {
+    "category": "PM-KUSUM",
+    "question": "Who is eligible for PM-KUSUM scheme benefits?",
+    "answer": "PM-KUSUM is available to individual farmers, Farmer Producer Organizations (FPOs), water user associations, farmer cooperatives, gram panchayats, and Primary Agricultural Credit Societies (PACS). The applicant must own agricultural land. There is no minimum land requirement for Component B (standalone pumps), but Component A (ground-mounted plant) typically requires land between 0.5 to 2 hectares per MW proposed."
+  },
+  {
+    "category": "PM-KUSUM",
+    "question": "How much subsidy will I get under PM-KUSUM?",
+    "answer": "Under PM-KUSUM, you receive 30% subsidy from the Central Government and 30% from the State Government, totaling 60% subsidy on the benchmark cost. You only need to pay 40% of the project cost, and bank loans are available for this portion at subsidized interest rates. For example, for a 5 kWp standalone pump system costing Rs 3.5 lakhs (benchmark cost), you would pay only Rs 1.4 lakhs after subsidy."
+  },
+  {
+    "category": "PM-KUSUM",
+    "question": "Can I sell excess solar power generated under PM-KUSUM Component A?",
+    "answer": "Yes! Under PM-KUSUM Component A, farmers set up solar power plants on their barren/fallow land and sell power directly to the DISCOM (Distribution Company) at a pre-agreed tariff for 25 years. The farmer earns a guaranteed income of approximately Rs 60,000–1,50,000 per acre per year from selling solar power, in addition to any agricultural income from dual-use (agrivoltaic) setups."
+  },
+  {
+    "category": "PM-KUSUM",
+    "question": "How do I apply for PM-KUSUM in Rajasthan?",
+    "answer": "In Rajasthan, applications are managed by RRECL (Rajasthan Renewable Energy Corporation Limited). Visit rrecl.rajasthan.gov.in or the nearest CSC (Common Service Centre). You need: Aadhaar card, land documents (Jamabandi/Khasra), electricity connection document, bank account details, and passport-size photos. Gautam Solar's dedicated PM-KUSUM team can assist with documentation — contact us at 1800-532-0800."
+  },
+  {
+    "category": "PM-KUSUM",
+    "question": "Is there a deadline to apply for PM-KUSUM?",
+    "answer": "PM-KUSUM has a target of 30.8 GW by 2026, and the scheme is currently active. Individual state quotas fill up quickly, especially for Component B and C. It is advisable to apply as soon as possible. Gautam Solar can alert you when your state opens a new tranche — register your interest at info@gautamsolar.com or call 1800-532-0800."
+  },
+  {
+    "category": "Pricing & Investment",
+    "question": "What is the cost of a 1 kWp solar system in 2024?",
+    "answer": "In 2024, the installed cost of a 1 kWp solar rooftop system with Gautam Solar modules ranges from Rs 55,000–75,000 depending on the module type (PERC vs TOPCon), inverter brand, mounting structure type, and location. A 3 kWp residential system costs approximately Rs 1.65–2.1 lakhs. Commercial and industrial systems (above 10 kWp) are priced lower per kWp due to economies of scale, ranging from Rs 40,000–55,000/kWp."
+  },
+  {
+    "category": "Pricing & Investment",
+    "question": "What is the payback period for solar in India?",
+    "answer": "The payback period for a Gautam Solar system in India typically ranges from 4–7 years depending on your electricity tariff, system size, and location. A commercial rooftop system in a high-tariff state like Maharashtra or Tamil Nadu (Rs 8–12/unit) sees payback in 4–5 years. Residential systems in states with Rs 5–8/unit tariffs see payback in 5–7 years. After payback, you generate free electricity for 18–25 more years, representing substantial net savings."
+  },
+  {
+    "category": "Pricing & Investment",
+    "question": "Are there government subsidies for residential rooftop solar?",
+    "answer": "Yes, the Government of India offers PM Surya Ghar Muft Bijli Yojana (launched 2024) providing subsidies of Rs 30,000 for 1 kWp, Rs 60,000 for 2 kWp, and Rs 78,000 for 3 kWp residential rooftop systems. This is in addition to state-level subsidies offered by states like Gujarat (additional 10–20%), Haryana, and others. Gautam Solar's ALMM-approved modules qualify for all these schemes."
+  },
+  {
+    "category": "Technical",
+    "question": "How often should I clean my Gautam Solar panels?",
+    "answer": "In Indian conditions, we recommend cleaning solar panels monthly during summer and bi-monthly during monsoon. In dusty regions like Rajasthan, Punjab, or construction-heavy urban areas, weekly cleaning may be needed. Use a soft brush with clean water in the early morning (panels are cool). Avoid using harsh detergents, high-pressure water jets, or abrasive materials. A 1% soiling layer reduces output by approximately 2–4%, so regular cleaning significantly improves ROI."
+  },
+  {
+    "category": "Technical",
+    "question": "Can Gautam Solar panels withstand extreme weather like hailstorms?",
+    "answer": "Yes. All Gautam Solar modules undergo rigorous mechanical testing including hail resistance testing (25mm ice ball at 23 m/s per IEC 61215), mechanical load testing (5400 Pa front/back), and dynamic mechanical load tests. The toughened glass used in our modules can withstand hail impacts. However, unusually large hail (50mm+) can damage any solar module. We recommend informing your property insurance provider about the solar installation for comprehensive coverage."
+  },
+  {
+    "category": "Technical",
+    "question": "What is the impact of temperature on solar panel output?",
+    "answer": "Solar panels become less efficient as temperature increases — this is called the temperature coefficient. Gautam Solar's TOPCon modules have a temperature coefficient of -0.29%/°C, which is industry-leading. Mono PERC modules have -0.35%/°C. This means on a hot summer day at 55°C panel temperature (25°C above STC), a 600Wp TOPCon panel produces approximately 600 - (600 × 0.29% × 25) = 556 Wp. TOPCon's lower coefficient makes it especially valuable in hot Indian climates."
+  },
+  {
+    "category": "Company",
+    "question": "Where are Gautam Solar's manufacturing plants located?",
+    "answer": "Gautam Solar operates state-of-the-art manufacturing facilities at two locations: Haridwar Factory (Plot-67 & 68, Sec-8A, SIDCUL, Haridwar, Uttarakhand) and Bhiwani Factory (7 KM Milestone, Tosham Road, Bhiwani, Haryana). Combined capacity is close to 3.2 GW as of early 2025. An upcoming solar cell manufacturing unit is planned in Malanpur, Gwalior, Madhya Pradesh (Rs 4000 crore investment for 5 GW capacity)."
+  },
+  {
+    "category": "Company",
+    "question": "Is Gautam Solar among the top manufacturers in India?",
+    "answer": "Yes, Gautam Solar is ranked among India's Top 4 solar module manufacturers by JMK Research & Analytics (RE Update FY 2025) and among the Global Top 30 solar module manufacturers by Wood Mackenzie. Gautam Solar is also Grade A rated by CRISIL Bridge To India (India PV Module Intelligence Brief Q4 2024)."
+  },
+  {
+    "category": "Company",
+    "question": "How can I contact Gautam Solar for a bulk order or enquiry?",
+    "answer": "You can reach Gautam Solar through multiple channels: Email: info@gautamsolar.com | Toll-free: 1800-532-0800 | WhatsApp: +91 93117 97248 | Registered Office: D-120-121, Okhla Industrial Area, Phase-1, New Delhi-110020. For large projects (above 1 MW), please request a dedicated account manager by emailing enterprise@gautamsolar.com with your project details."
+  },
+  {
+    "category": "Company",
+    "question": "Does Gautam Solar supply to international markets?",
+    "answer": "Yes. Gautam Solar panels are available in the US market (UL 61730 certified) and several other international markets. Gautam Solar is CE certified for European compliance. For export inquiries, contact the international sales team at exports@gautamsolar.com. Minimum order quantities and lead times vary by destination country."
+  }
+]

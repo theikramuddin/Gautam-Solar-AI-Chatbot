@@ -1,0 +1,76 @@
+# ============================================================
+# GAUTAM SOLAR RAG CHATBOT — Requirements
+# Python
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# ─── CORE LANGCHAIN ─────────────────────────────────────────
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ─── MISTRAL AI (LLM + Embeddings) ──────────────────────────
+langchain-mistralai
+mistralai
+
+# ─── VECTOR DATABASE — ChromaDB ─────────────────────────────
+chromadb
+langchain-chroma
+
+# ─── HUGGING FACE (Backup Embeddings / Models) ──────────────
+huggingface-hub
+sentence-transformers
+transformers
+tokenizers
+datasets
+
+# ─── DOCUMENT LOADERS ───────────────────────────────────────
+pypdf                  # PDF loading
+pdfplumber            # Advanced PDF text + table extraction
+pymupdf               # Fast PDF parsing (fitz)
+python-docx            # Word document loader
+openpyxl               # Excel file loader
+beautifulsoup4        # HTML/web scraping
+lxml                   # XML/HTML parser
+requests              # HTTP requests for web scraping
+html2text          # Convert HTML to markdown text
+
+# ─── WEB SCRAPING ───────────────────────────────────────────
+selenium              # Dynamic JS-rendered page scraping
+playwright            # Modern browser automation
+scrapy                # Advanced web crawling
+
+# ─── TEXT PROCESSING ────────────────────────────────────────
+nltk                   # Natural Language Toolkit
+spacy                  # NLP pipeline
+tiktoken               # Token counting (OpenAI-compatible)
+langdetect             # Language detection
+
+# ─── DATA HANDLING ──────────────────────────────────────────
+numpy
+pandas
+pydantic
+python-dotenv          # Load .env API keys
+
+# ─── STREAMLIT UI ───────────────────────────────────────────
+streamlit
+streamlit-chat         # Chat UI component
+watchdog               # Streamlit file watcher
+
+# ─── EVALUATION & TESTING ───────────────────────────────────
+ragas                 # RAG evaluation framework
+deepeval               # LLM evaluation toolkit
+pytest
+pytest-asyncio
+
+# ─── LOGGING & MONITORING ───────────────────────────────────
+langsmith             # LangChain tracing & debugging
+loguru                 # Better logging
+
+# ─── UTILITIES ──────────────────────────────────────────────
+tqdm                  # Progress bars
+tenacity               # Retry logic for API calls
+httpx                 # Async HTTP client
+aiohttp              # Async HTTP for parallel scraping
+reportlab              # PDF creation (for dummy data)
