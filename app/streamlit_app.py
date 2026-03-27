@@ -11,7 +11,7 @@ from chain.rag_chain import get_chain
 
 # ── Page Config ───────────────────────────────────────────
 st.set_page_config(
-    page_title="Surya — Gautam Solar AI",
+    page_title="Surya - Gautam Solar AI",
     page_icon="☀️",
     layout="wide",
     initial_sidebar_state="expanded",
